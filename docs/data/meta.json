@@ -1,0 +1,51 @@
+{
+ "updated_at": "2026-08-06T14:27:12.324172+09:00",
+ "updated_at_display": "2026-08-06 14:27 KST",
+ "range": {
+  "from": "20260508",
+  "to": "20260806",
+  "lookback_days": 90,
+  "keep_days": 365
+ },
+ "total": 1092,
+ "new_count": 1092,
+ "unresolved_tickers": [],
+ "holdings": [
+  {
+   "ticker": "005930",
+   "label": "삼성전자",
+   "group": "반도체",
+   "kind": "보유"
+  },
+  {
+   "ticker": "000660",
+   "label": "SK하이닉스",
+   "group": "반도체",
+   "kind": "보유"
+  },
+  {
+   "ticker": "373220",
+   "label": "LG에너지솔루션",
+   "group": "2차전지",
+   "kind": "보유"
+  },
+  {
+   "ticker": "005380",
+   "label": "현대차",
+   "group": "자동차",
+   "kind": "보유"
+  },
+  {
+   "ticker": "035420",
+   "label": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유"
+  },
+  {
+   "ticker": "068270",
+   "label": "셀트리온",
+   "group": "바이오",
+   "kind": "보유"
+  }
+ ]
+}
