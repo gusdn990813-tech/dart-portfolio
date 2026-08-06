@@ -23,6 +23,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -42,8 +44,17 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data
           if git diff --staged --quiet; then
-            echo "no change"
-          else
-            git commit -m "chore: update disclosures"
-            git push
+            echo "변경 사항 없음"
+            exit 0
           fi
+          git commit -m "chore: update disclosures"
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin main; then
+              echo "푸시 성공"
+              exit 0
+            fi
+            echo "충돌로 재시도 $i"
+            sleep 5
+          done
+          echo "3회 재시도 실패"
+          exit 1
