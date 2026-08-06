@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "rcept_no": "20260806000501",
+   "date": "2026-08-06",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "권정현",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260806000501",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260806000484",
+   "date": "2026-08-06",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "김영아",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260806000484",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260806000236",
    "date": "2026-08-06",
    "ticker": "005930",
