@@ -42,19 +42,24 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data
-          if git diff --staged --quiet; then
-            echo "변경 사항 없음"
-            exit 0
-          fi
-          git commit -m "chore: update disclosures"
           for i in 1 2 3; do
-            if git pull --rebase --autostash origin main && git push origin main; then
+            git add -A docs/data
+            if git diff --staged --quiet; then
+              echo "변경 사항 없음"
+              exit 0
+            fi
+            git commit -m "chore: update disclosures"
+            if git push origin main; then
               echo "푸시 성공"
               exit 0
             fi
-            echo "충돌로 재시도 $i"
-            sleep 5
+            echo "원격이 앞서 있음 - 최신 반영 후 재시도 ($i)"
+            rm -rf /tmp/dartdata && mkdir -p /tmp/dartdata
+            cp -r docs/data/. /tmp/dartdata/
+            git fetch origin main
+            git reset --hard origin/main
+            mkdir -p docs/data
+            cp -r /tmp/dartdata/. docs/data/
           done
           echo "3회 재시도 실패"
           exit 1
