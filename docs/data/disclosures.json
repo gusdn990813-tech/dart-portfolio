@@ -14,7 +14,7 @@
    "category": "계약·투자",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800613",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260807800602",
@@ -30,7 +30,7 @@
    "category": "계약·투자",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800602",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260807800596",
@@ -46,7 +46,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800596",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260807800589",
@@ -62,7 +62,7 @@
    "category": "배당·주주환원",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800589",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260807800028",
@@ -97,6 +97,22 @@
    "is_new": false
   },
   {
+   "rcept_no": "20260807000756",
+   "date": "2026-08-07",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "김유석",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807000756",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260807000722",
    "date": "2026-08-07",
    "ticker": "035420",
@@ -110,7 +126,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807000722",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260807000626",
@@ -126,7 +142,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807000626",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260807000537",
@@ -142,7 +158,7 @@
    "category": "자기주식",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807000537",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260807000528",
@@ -158,7 +174,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807000528",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260807000459",
@@ -174,7 +190,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807000459",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260807000357",
