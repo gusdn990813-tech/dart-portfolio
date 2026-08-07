@@ -14,7 +14,7 @@
    "category": "실적",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800028",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260807800026",
@@ -30,7 +30,7 @@
    "category": "실적",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800026",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260806000501",
