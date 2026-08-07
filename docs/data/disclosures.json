@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "rcept_no": "20260807800028",
+   "date": "2026-08-07",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "영업(잠정)실적(공정공시)",
+   "filer": "NAVER",
+   "remark": "유",
+   "category": "실적",
+   "level": 3,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800028",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260807800026",
+   "date": "2026-08-07",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+   "filer": "NAVER",
+   "remark": "유",
+   "category": "실적",
+   "level": 3,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800026",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260806000501",
    "date": "2026-08-06",
    "ticker": "005380",
