@@ -14,7 +14,7 @@
    "category": "위험신호",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810800434",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260810800101",
@@ -46,7 +46,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810000473",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260810000353",
@@ -62,7 +62,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810000353",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260810000256",
