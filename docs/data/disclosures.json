@@ -14,6 +14,38 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812800134",
+   "is_new": false
+  },
+  {
+   "rcept_no": "20260812000394",
+   "date": "2026-08-12",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항",
+   "filer": "NAVER",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000394",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260812000344",
+   "date": "2026-08-12",
+   "ticker": "000660",
+   "name": "SK하이닉스",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항",
+   "filer": "SK하이닉스",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000344",
    "is_new": true
   },
   {
