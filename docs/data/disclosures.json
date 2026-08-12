@@ -17,6 +17,22 @@
    "is_new": false
   },
   {
+   "rcept_no": "20260812000874",
+   "date": "2026-08-12",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "특수관계인으로부터기타유가증권매수",
+   "filer": "현대자동차",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000874",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260812000394",
    "date": "2026-08-12",
    "ticker": "035420",
