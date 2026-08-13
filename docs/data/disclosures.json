@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "rcept_no": "20260813000316",
+   "date": "2026-08-13",
+   "ticker": "373220",
+   "name": "LG에너지솔루션",
+   "group": "2차전지",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항",
+   "filer": "LG에너지솔루션",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813000316",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260813000255",
+   "date": "2026-08-13",
+   "ticker": "373220",
+   "name": "LG에너지솔루션",
+   "group": "2차전지",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "반기보고서 (2026.06)",
+   "filer": "LG에너지솔루션",
+   "remark": "",
+   "category": "정기보고서",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813000255",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260812800134",
    "date": "2026-08-12",
    "ticker": "373220",
