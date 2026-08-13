@@ -14,7 +14,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813000316",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260813000255",
@@ -30,7 +30,7 @@
    "category": "정기보고서",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813000255",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260812800134",
