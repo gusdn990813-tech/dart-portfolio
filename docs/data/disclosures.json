@@ -1,6 +1,230 @@
 {
  "items": [
   {
+   "rcept_no": "20260814802986",
+   "date": "2026-08-14",
+   "ticker": "000660",
+   "name": "SK하이닉스",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "파생상품거래손실발생",
+   "filer": "SK하이닉스",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814802986",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003973",
+   "date": "2026-08-14",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "박태훈",
+   "remark": "",
+   "category": "지분변동",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003973",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003950",
+   "date": "2026-08-14",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "박태훈",
+   "remark": "",
+   "category": "지분변동",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003950",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003912",
+   "date": "2026-08-14",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "박태훈",
+   "remark": "",
+   "category": "지분변동",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003912",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003844",
+   "date": "2026-08-14",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "박태훈",
+   "remark": "정",
+   "category": "지분변동",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003844",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003751",
+   "date": "2026-08-14",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "반기보고서 (2026.06)",
+   "filer": "셀트리온",
+   "remark": "",
+   "category": "정기보고서",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003751",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003747",
+   "date": "2026-08-14",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "박태훈",
+   "remark": "",
+   "category": "지분변동",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003747",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003699",
+   "date": "2026-08-14",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "반기보고서 (2026.06)",
+   "filer": "삼성전자",
+   "remark": "",
+   "category": "정기보고서",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003672",
+   "date": "2026-08-14",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "박태훈",
+   "remark": "정",
+   "category": "지분변동",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003672",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003549",
+   "date": "2026-08-14",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+   "filer": "삼성전자",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003549",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003521",
+   "date": "2026-08-14",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "반기보고서 (2026.06)",
+   "filer": "현대자동차",
+   "remark": "",
+   "category": "정기보고서",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003521",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003509",
+   "date": "2026-08-14",
+   "ticker": "000660",
+   "name": "SK하이닉스",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "반기보고서 (2026.06)",
+   "filer": "SK하이닉스",
+   "remark": "",
+   "category": "정기보고서",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003509",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003162",
+   "date": "2026-08-14",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+   "filer": "삼성전자",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003162",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260814003055",
+   "date": "2026-08-14",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+   "filer": "삼성전자",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003055",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260814002859",
    "date": "2026-08-14",
    "ticker": "035420",
@@ -14,7 +238,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002859",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260814002809",
@@ -30,7 +254,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002809",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260814002654",
@@ -46,7 +270,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002654",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260814002598",
@@ -62,7 +286,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002598",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260814002553",
@@ -78,7 +302,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002553",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260814002506",
@@ -94,7 +318,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002506",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260814002444",
@@ -110,7 +334,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002444",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260814002266",
@@ -126,7 +350,7 @@
    "category": "정기보고서",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002266",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260814002259",
@@ -142,7 +366,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002259",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260814000660",
@@ -1034,7 +1258,7 @@
    "market": "코스피",
    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
    "filer": "박태훈",
-   "remark": "",
+   "remark": "정",
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260803000004",
@@ -5914,7 +6138,7 @@
    "market": "코스피",
    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
    "filer": "박태훈",
-   "remark": "",
+   "remark": "정",
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260721000957",
@@ -16906,7 +17130,7 @@
    "market": "코스피",
    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
    "filer": "박태훈",
-   "remark": "",
+   "remark": "정",
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260608000002",
