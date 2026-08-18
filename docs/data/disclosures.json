@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20260818000199",
+   "date": "2026-08-18",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "피트 졸리",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818000199",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260814802986",
    "date": "2026-08-14",
    "ticker": "000660",
