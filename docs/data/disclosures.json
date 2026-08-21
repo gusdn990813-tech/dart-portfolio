@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20260821800763",
+   "date": "2026-08-21",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "수시공시의무관련사항(공정공시)",
+   "filer": "삼성전자",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821800763",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260821800617",
    "date": "2026-08-21",
    "ticker": "000660",
@@ -14,7 +30,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821800617",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821800524",
@@ -30,7 +46,7 @@
    "category": "위험신호",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821800524",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821800214",
@@ -49,6 +65,38 @@
    "is_new": false
   },
   {
+   "rcept_no": "20260821000616",
+   "date": "2026-08-21",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "주요사항보고서(자기주식취득결정)",
+   "filer": "삼성전자",
+   "remark": "",
+   "category": "자기주식",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000616",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260821000615",
+   "date": "2026-08-21",
+   "ticker": "000660",
+   "name": "SK하이닉스",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "김성래",
+   "remark": "",
+   "category": "지분변동",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000615",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260821000531",
    "date": "2026-08-21",
    "ticker": "000660",
@@ -62,7 +110,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000531",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000527",
@@ -78,7 +126,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000527",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000524",
@@ -94,7 +142,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000524",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000519",
@@ -110,7 +158,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000519",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000516",
@@ -126,7 +174,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000516",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000513",
@@ -142,7 +190,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000513",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000504",
@@ -154,11 +202,11 @@
    "market": "코스피",
    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
    "filer": "김성래",
-   "remark": "",
+   "remark": "정",
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000504",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000495",
@@ -174,7 +222,7 @@
    "category": "자기주식",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000495",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000493",
@@ -190,7 +238,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000493",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000262",
