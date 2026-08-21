@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20260821800837",
+   "date": "2026-08-21",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "기타경영사항(자율공시)",
+   "filer": "삼성전자",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821800837",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260821800763",
    "date": "2026-08-21",
    "ticker": "005930",
@@ -14,7 +30,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821800763",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821800617",
@@ -78,7 +94,7 @@
    "category": "자기주식",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000616",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000615",
@@ -94,7 +110,7 @@
    "category": "지분변동",
    "level": 1,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000615",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260821000531",
