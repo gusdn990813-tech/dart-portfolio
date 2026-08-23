@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20260824800001",
+   "date": "2026-08-24",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "투자판단관련주요경영사항              (CTP51(키트루다 바이오시밀러) 한국 품목허가 신청)",
+   "filer": "셀트리온",
+   "remark": "유",
+   "category": "계약·투자",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824800001",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260821800837",
    "date": "2026-08-21",
    "ticker": "005930",
