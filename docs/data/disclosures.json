@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20260825800463",
+   "date": "2026-08-25",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "풍문또는보도에대한해명(미확정)",
+   "filer": "셀트리온",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260825800463",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260824800707",
    "date": "2026-08-24",
    "ticker": "005380",
