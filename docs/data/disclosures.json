@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "rcept_no": "20260826800261",
+   "date": "2026-08-26",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "주식소각결정",
+   "filer": "현대자동차",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260826800261",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260826800246",
+   "date": "2026-08-26",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "장래사업ㆍ경영계획(공정공시)",
+   "filer": "현대자동차",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260826800246",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260826000163",
    "date": "2026-08-26",
    "ticker": "035420",
