@@ -14,7 +14,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828800249",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260828800244",
@@ -30,6 +30,54 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828800244",
+   "is_new": false
+  },
+  {
+   "rcept_no": "20260828001911",
+   "date": "2026-08-28",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "주식등의대량보유상황보고서(일반)",
+   "filer": "셀트리온홀딩스",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001911",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260828001617",
+   "date": "2026-08-28",
+   "ticker": "373220",
+   "name": "LG에너지솔루션",
+   "group": "2차전지",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+   "filer": "LG에너지솔루션",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001617",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260828001319",
+   "date": "2026-08-28",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+   "filer": "셀트리온",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001319",
    "is_new": true
   },
   {
@@ -46,7 +94,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828000940",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260828000879",
@@ -62,7 +110,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828000879",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260826800261",
