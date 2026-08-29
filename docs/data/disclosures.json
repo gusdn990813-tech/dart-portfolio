@@ -33,6 +33,22 @@
    "is_new": false
   },
   {
+   "rcept_no": "20260828001916",
+   "date": "2026-08-28",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "주식등의대량보유상황보고서(일반)",
+   "filer": "삼성물산",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001916",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260828001911",
    "date": "2026-08-28",
    "ticker": "068270",
@@ -46,6 +62,22 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001911",
+   "is_new": false
+  },
+  {
+   "rcept_no": "20260828001836",
+   "date": "2026-08-28",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "포르치니마우로",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001836",
    "is_new": true
   },
   {
@@ -62,7 +94,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001617",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260828001319",
@@ -78,7 +110,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001319",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260828000940",
