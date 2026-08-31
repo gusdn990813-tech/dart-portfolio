@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "rcept_no": "20260831800153",
+   "date": "2026-08-31",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "수시공시의무관련사항(공정공시)",
+   "filer": "셀트리온",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831800153",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260831000538",
+   "date": "2026-08-31",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "주요사항보고서(자기주식취득결정)",
+   "filer": "셀트리온",
+   "remark": "",
+   "category": "자기주식",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000538",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260831000250",
+   "date": "2026-08-31",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+   "filer": "삼성전자",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000250",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260831000066",
    "date": "2026-08-31",
    "ticker": "005930",
@@ -14,7 +62,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000066",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260828800249",
