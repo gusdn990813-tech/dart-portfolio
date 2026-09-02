@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20260902800437",
+   "date": "2026-09-02",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "생산재개(자율공시)",
+   "filer": "현대자동차",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260902800437",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260901800400",
    "date": "2026-09-01",
    "ticker": "005380",
