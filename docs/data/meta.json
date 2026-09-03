@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-09-03T14:20:02.391635+09:00",
- "updated_at_display": "2026-09-03 14:20 KST",
+ "updated_at": "2026-09-03T19:21:35.233450+09:00",
+ "updated_at_display": "2026-09-03 19:21 KST",
  "range": {
   "from": "20260605",
   "to": "20260903",
   "lookback_days": 90,
   "keep_days": 365
  },
- "total": 1195,
- "new_count": 0,
+ "total": 1197,
+ "new_count": 2,
  "unresolved_tickers": [],
  "holdings": [
   {
