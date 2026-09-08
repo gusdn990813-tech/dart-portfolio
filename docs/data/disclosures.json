@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20260908800624",
+   "date": "2026-09-08",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "최대주주등소유주식변동신고서",
+   "filer": "삼성전자",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800624",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260907800004",
    "date": "2026-09-07",
    "ticker": "068270",
