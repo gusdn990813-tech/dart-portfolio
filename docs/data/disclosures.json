@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "rcept_no": "20260909800559",
+   "date": "2026-09-09",
+   "ticker": "000660",
+   "name": "SK하이닉스",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "조회공시요구(풍문또는보도)에대한답변(미확정)",
+   "filer": "SK하이닉스",
+   "remark": "유",
+   "category": "위험신호",
+   "level": 3,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909800559",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260909000516",
+   "date": "2026-09-09",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등거래계획보고서",
+   "filer": "이재용",
+   "remark": "",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000516",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260909000113",
    "date": "2026-09-09",
    "ticker": "005930",
@@ -14,7 +46,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000113",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260908800624",
