@@ -14,7 +14,7 @@
    "category": "위험신호",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909800559",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260909000516",
@@ -30,7 +30,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000516",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260909000113",
