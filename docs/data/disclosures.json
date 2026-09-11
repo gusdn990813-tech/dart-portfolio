@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20260911000383",
+   "date": "2026-09-11",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "이종화",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911000383",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260909800559",
    "date": "2026-09-09",
    "ticker": "000660",
