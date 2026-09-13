@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-09-12T22:14:07.161263+09:00",
- "updated_at_display": "2026-09-12 22:14 KST",
+ "updated_at": "2026-09-13T09:29:34.655581+09:00",
+ "updated_at_display": "2026-09-13 09:29 KST",
  "range": {
-  "from": "20260614",
-  "to": "20260912",
+  "from": "20260615",
+  "to": "20260913",
   "lookback_days": 90,
   "keep_days": 365
  },
