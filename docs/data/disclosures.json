@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "rcept_no": "20260916800015",
+   "date": "2026-09-16",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "주식소각결정",
+   "filer": "셀트리온",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916800015",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260916000002",
+   "date": "2026-09-16",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "자기주식취득결과보고서",
+   "filer": "셀트리온",
+   "remark": "",
+   "category": "자기주식",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916000002",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260914000419",
    "date": "2026-09-14",
    "ticker": "005380",
