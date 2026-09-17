@@ -1,6 +1,70 @@
 {
  "items": [
   {
+   "rcept_no": "20260917800315",
+   "date": "2026-09-17",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "풍문또는보도에대한해명",
+   "filer": "NAVER",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917800315",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260917000248",
+   "date": "2026-09-17",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "이상철",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917000248",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260917000239",
+   "date": "2026-09-17",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "최승락",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917000239",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260917000236",
+   "date": "2026-09-17",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "한석주",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917000236",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260917000097",
    "date": "2026-09-17",
    "ticker": "005930",
@@ -14,7 +78,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917000097",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260916800015",
