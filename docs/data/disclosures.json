@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "rcept_no": "20260918800754",
+   "date": "2026-09-18",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "최대주주등소유주식변동신고서",
+   "filer": "삼성전자",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918800754",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260918800583",
+   "date": "2026-09-18",
+   "ticker": "000660",
+   "name": "SK하이닉스",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "조회공시요구(풍문또는보도)에대한답변(미확정)",
+   "filer": "SK하이닉스",
+   "remark": "유",
+   "category": "위험신호",
+   "level": 3,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918800583",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260918800063",
    "date": "2026-09-18",
    "ticker": "005380",
@@ -14,6 +46,38 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918800063",
+   "is_new": false
+  },
+  {
+   "rcept_no": "20260918000212",
+   "date": "2026-09-18",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "조혜경",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000212",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260918000191",
+   "date": "2026-09-18",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "이혁재",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000191",
    "is_new": true
   },
   {
