@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "rcept_no": "20260921800165",
+   "date": "2026-09-21",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "투자판단관련주요경영사항              (CTP44(다잘렉스 바이오시밀러) 유럽 임상 3상 시험계획 변경신청 승인(Part1&2))",
+   "filer": "셀트리온",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921800165",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20260921000336",
+   "date": "2026-09-21",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "박무곤",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921000336",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260918800754",
    "date": "2026-09-18",
    "ticker": "005930",
