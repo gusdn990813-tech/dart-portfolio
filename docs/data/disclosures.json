@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20260922000361",
+   "date": "2026-09-22",
+   "ticker": "000660",
+   "name": "SK하이닉스",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "정인철",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260922000361",
+   "is_new": true
+  },
+  {
    "rcept_no": "20260921800165",
    "date": "2026-09-21",
    "ticker": "068270",
