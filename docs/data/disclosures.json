@@ -14,7 +14,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921800165",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260921000336",
@@ -30,7 +30,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921000336",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260918800754",
