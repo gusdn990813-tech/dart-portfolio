@@ -14,7 +14,7 @@
    "category": "실적",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800412",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261001800119",
@@ -30,7 +30,7 @@
    "category": "계약·투자",
    "level": 1,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800119",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261001000251",
@@ -46,7 +46,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001000251",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261001000203",
@@ -62,7 +62,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001000203",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20260930000861",
