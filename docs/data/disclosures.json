@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20261007800306",
+   "date": "2026-10-07",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]주식교환ㆍ이전결정(종속회사의주요경영사항)",
+   "filer": "NAVER",
+   "remark": "유",
+   "category": "지배구조",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800306",
+   "is_new": true
+  },
+  {
    "rcept_no": "20261006000253",
    "date": "2026-10-06",
    "ticker": "000660",
