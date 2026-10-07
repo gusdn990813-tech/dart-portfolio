@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-07T16:54:05.566427+09:00",
- "updated_at_display": "2026-10-07 16:54 KST",
+ "updated_at": "2026-10-07T23:54:04.554127+09:00",
+ "updated_at_display": "2026-10-07 23:54 KST",
  "range": {
   "from": "20260709",
   "to": "20261007",
@@ -8,7 +8,7 @@
   "keep_days": 365
  },
  "total": 1237,
- "new_count": 1,
+ "new_count": 0,
  "unresolved_tickers": [],
  "holdings": [
   {
