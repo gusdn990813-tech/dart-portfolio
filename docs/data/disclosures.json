@@ -14,7 +14,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800068",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261008800055",
@@ -30,7 +30,7 @@
    "category": "실적",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800055",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261008800028",
@@ -46,7 +46,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800028",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261008800004",
@@ -62,6 +62,22 @@
    "category": "실적",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800004",
+   "is_new": false
+  },
+  {
+   "rcept_no": "20261008000706",
+   "date": "2026-10-08",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "주식등의대량보유상황보고서(일반)",
+   "filer": "삼성물산",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000706",
    "is_new": true
   },
   {
