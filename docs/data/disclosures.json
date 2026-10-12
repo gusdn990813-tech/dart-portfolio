@@ -14,6 +14,22 @@
    "category": "실적",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800004",
+   "is_new": false
+  },
+  {
+   "rcept_no": "20261012000421",
+   "date": "2026-10-12",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "자기주식취득결과보고서",
+   "filer": "삼성전자",
+   "remark": "",
+   "category": "자기주식",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000421",
    "is_new": true
   },
   {
@@ -30,7 +46,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000021",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261008800068",
