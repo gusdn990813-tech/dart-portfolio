@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20261023800002",
+   "date": "2026-10-23",
+   "ticker": "000660",
+   "name": "SK하이닉스",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "풍문또는보도에대한해명",
+   "filer": "SK하이닉스",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800002",
+   "is_new": true
+  },
+  {
    "rcept_no": "20261022800377",
    "date": "2026-10-22",
    "ticker": "005380",
