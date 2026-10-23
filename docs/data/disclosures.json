@@ -17,6 +17,38 @@
    "is_new": false
   },
   {
+   "rcept_no": "20261023000484",
+   "date": "2026-10-23",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "주식등의대량보유상황보고서(일반)",
+   "filer": "삼성물산",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000484",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261023000478",
+   "date": "2026-10-23",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "서경헌",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000478",
+   "is_new": true
+  },
+  {
    "rcept_no": "20261023000336",
    "date": "2026-10-23",
    "ticker": "005380",
@@ -30,7 +62,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000336",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261022800377",
