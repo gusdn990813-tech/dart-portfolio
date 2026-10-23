@@ -14,6 +14,22 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800002",
+   "is_new": false
+  },
+  {
+   "rcept_no": "20261023000336",
+   "date": "2026-10-23",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "특수관계인으로부터기타유가증권매수",
+   "filer": "현대자동차",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000336",
    "is_new": true
   },
   {
