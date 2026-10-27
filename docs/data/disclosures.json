@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "rcept_no": "20261027800510",
+   "date": "2026-10-27",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "타인에대한채무보증결정",
+   "filer": "NAVER",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800510",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261027800446",
+   "date": "2026-10-27",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]장래사업ㆍ경영계획(공정공시)",
+   "filer": "NAVER",
+   "remark": "유",
+   "category": "정정공시",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800446",
+   "is_new": true
+  },
+  {
    "rcept_no": "20261027800047",
    "date": "2026-10-27",
    "ticker": "068270",
@@ -15,6 +47,38 @@
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800047",
    "is_new": false
+  },
+  {
+   "rcept_no": "20261027000365",
+   "date": "2026-10-27",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "주식등의대량보유상황보고서(일반)",
+   "filer": "셀트리온홀딩스",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000365",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261027000289",
+   "date": "2026-10-27",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "특수관계인과의내부거래",
+   "filer": "NAVER",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000289",
+   "is_new": true
   },
   {
    "rcept_no": "20261026800524",
