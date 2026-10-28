@@ -14,7 +14,7 @@
    "category": "정정공시",
    "level": 1,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800052",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261028800048",
@@ -30,7 +30,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800048",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261028800045",
@@ -46,7 +46,7 @@
    "category": "배당·주주환원",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800045",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261028800040",
@@ -62,7 +62,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800040",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261028800036",
@@ -78,7 +78,7 @@
    "category": "실적",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800036",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261028000014",
@@ -94,7 +94,7 @@
    "category": "자기주식",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000014",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261027800510",
