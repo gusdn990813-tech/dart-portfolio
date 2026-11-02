@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "rcept_no": "20261102800824",
+   "date": "2026-11-02",
+   "ticker": "373220",
+   "name": "LG에너지솔루션",
+   "group": "2차전지",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "불성실공시법인지정",
+   "filer": "유가증권시장본부",
+   "remark": "유",
+   "category": "위험신호",
+   "level": 3,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800824",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261102800774",
+   "date": "2026-11-02",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "기업설명회(IR)개최(안내공시)",
+   "filer": "NAVER",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800774",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261102800520",
+   "date": "2026-11-02",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "영업(잠정)실적(공정공시)",
+   "filer": "현대자동차",
+   "remark": "유",
+   "category": "실적",
+   "level": 3,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800520",
+   "is_new": true
+  },
+  {
    "rcept_no": "20261102800302",
    "date": "2026-11-02",
    "ticker": "068270",
@@ -14,7 +62,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800302",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261030800867",
