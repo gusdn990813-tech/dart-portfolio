@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20261102800302",
+   "date": "2026-11-02",
+   "ticker": "068270",
+   "name": "셀트리온",
+   "group": "바이오",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "투자판단관련주요경영사항              (CTP13 SC(짐펜트라) 유럽 임상 3상 시험계획 승인(Part1&2) (류마티스 관절염 환자))",
+   "filer": "셀트리온",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800302",
+   "is_new": true
+  },
+  {
    "rcept_no": "20261030800867",
    "date": "2026-10-30",
    "ticker": "005380",
