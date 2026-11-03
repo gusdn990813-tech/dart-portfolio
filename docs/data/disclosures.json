@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20261103800603",
+   "date": "2026-11-03",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]장래사업ㆍ경영계획(공정공시)",
+   "filer": "NAVER",
+   "remark": "유",
+   "category": "정정공시",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800603",
+   "is_new": true
+  },
+  {
    "rcept_no": "20261103800111",
    "date": "2026-11-03",
    "ticker": "373220",
@@ -14,7 +30,7 @@
    "category": "정정공시",
    "level": 1,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800111",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261103800087",
@@ -30,6 +46,38 @@
    "category": "실적",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800087",
+   "is_new": false
+  },
+  {
+   "rcept_no": "20261103000311",
+   "date": "2026-11-03",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]주요사항보고서(유상증자결정)",
+   "filer": "NAVER",
+   "remark": "",
+   "category": "증자·CB",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000311",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261103000167",
+   "date": "2026-11-03",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "오정환",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000167",
    "is_new": true
   },
   {
@@ -250,7 +298,7 @@
    "market": "코스피",
    "title": "[기재정정]주요사항보고서(유상증자결정)",
    "filer": "NAVER",
-   "remark": "",
+   "remark": "정",
    "category": "증자·CB",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000001",
@@ -810,7 +858,7 @@
    "market": "코스피",
    "title": "[기재정정]장래사업ㆍ경영계획(공정공시)",
    "filer": "NAVER",
-   "remark": "유",
+   "remark": "유정",
    "category": "정정공시",
    "level": 1,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800446",
