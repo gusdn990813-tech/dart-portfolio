@@ -14,7 +14,7 @@
    "category": "정정공시",
    "level": 1,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800603",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261103800111",
@@ -62,7 +62,7 @@
    "category": "증자·CB",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000311",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261103000167",
@@ -78,7 +78,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000167",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261102800824",
