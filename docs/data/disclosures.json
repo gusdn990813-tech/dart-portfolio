@@ -14,7 +14,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800612",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261104800225",
@@ -30,7 +30,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800225",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261104000325",
@@ -46,7 +46,7 @@
    "category": "자기주식",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000325",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261103800603",
