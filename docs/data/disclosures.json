@@ -14,7 +14,7 @@
    "category": "증자·CB",
    "level": 3,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106800553",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261106000440",
@@ -30,7 +30,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000440",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261106000410",
@@ -46,7 +46,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000410",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261106000193",
@@ -62,7 +62,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000193",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261106000100",
@@ -78,7 +78,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000100",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261106000098",
@@ -94,7 +94,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000098",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261106000093",
@@ -110,7 +110,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000093",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261106000022",
