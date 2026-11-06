@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20261106000022",
+   "date": "2026-11-06",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "홍희일",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000022",
+   "is_new": true
+  },
+  {
    "rcept_no": "20261105000566",
    "date": "2026-11-05",
    "ticker": "005930",
