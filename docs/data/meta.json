@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-12T12:29:04.342753+09:00",
- "updated_at_display": "2026-11-12 12:29 KST",
+ "updated_at": "2026-11-12T20:58:21.160301+09:00",
+ "updated_at_display": "2026-11-12 20:58 KST",
  "range": {
   "from": "20260814",
   "to": "20261112",
@@ -8,7 +8,7 @@
   "keep_days": 365
  },
  "total": 1354,
- "new_count": 3,
+ "new_count": 0,
  "unresolved_tickers": [],
  "holdings": [
   {
