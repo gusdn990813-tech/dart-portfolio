@@ -14,7 +14,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113801935",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113801115",
@@ -30,7 +30,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113801115",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113001527",
@@ -46,7 +46,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001527",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113001338",
@@ -62,7 +62,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001338",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113001302",
@@ -78,7 +78,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001302",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113001281",
@@ -94,7 +94,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001281",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113001140",
@@ -110,7 +110,7 @@
    "category": "정기보고서",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001140",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113001011",
@@ -126,7 +126,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001011",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113000979",
@@ -142,7 +142,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000979",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113000976",
@@ -158,7 +158,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000976",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113000928",
@@ -174,7 +174,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000928",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113000885",
@@ -190,7 +190,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000885",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113000789",
@@ -206,7 +206,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000789",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113000421",
@@ -222,7 +222,7 @@
    "category": "정기보고서",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000421",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113000215",
