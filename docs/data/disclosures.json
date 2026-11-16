@@ -14,7 +14,7 @@
    "category": "정기보고서",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001715",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261116001482",
@@ -30,7 +30,7 @@
    "category": "정기보고서",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001482",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261116001437",
@@ -46,7 +46,7 @@
    "category": "정기보고서",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001437",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261116001228",
@@ -62,7 +62,7 @@
    "category": "정기보고서",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001228",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261116000767",
@@ -78,7 +78,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000767",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261113801935",
