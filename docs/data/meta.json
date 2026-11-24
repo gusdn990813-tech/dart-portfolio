@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-24T15:35:27.944066+09:00",
- "updated_at_display": "2026-11-24 15:35 KST",
+ "updated_at": "2026-11-25T03:27:29.123041+09:00",
+ "updated_at_display": "2026-11-25 03:27 KST",
  "range": {
-  "from": "20260826",
-  "to": "20261124",
+  "from": "20260827",
+  "to": "20261125",
   "lookback_days": 90,
   "keep_days": 365
  },
- "total": 1378,
- "new_count": 0,
+ "total": 1379,
+ "new_count": 1,
  "unresolved_tickers": [],
  "holdings": [
   {
