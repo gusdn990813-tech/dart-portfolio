@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "rcept_no": "20261125000041",
+   "date": "2026-11-25",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+   "filer": "NAVER",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000041",
+   "is_new": true
+  },
+  {
    "rcept_no": "20261124000343",
    "date": "2026-11-24",
    "ticker": "005380",
@@ -14,7 +30,7 @@
    "category": "자기주식",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000343",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261123000192",
