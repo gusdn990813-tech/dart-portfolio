@@ -1,6 +1,310 @@
 {
  "items": [
   {
+   "rcept_no": "20261127801094",
+   "date": "2026-11-27",
+   "ticker": "000660",
+   "name": "SK하이닉스",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "풍문또는보도에대한해명(미확정)",
+   "filer": "SK하이닉스",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801094",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127800973",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "기타경영사항(자율공시)",
+   "filer": "삼성전자",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800973",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127800969",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "기타경영사항(자율공시)",
+   "filer": "삼성전자",
+   "remark": "유",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800969",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127002010",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "조용선",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127002010",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001958",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "정창규",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001958",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001928",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "양효순",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001928",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001860",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "조태훈",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001860",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001858",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "특수관계인과의보험거래",
+   "filer": "삼성전자",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001858",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001851",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "특수관계인과의보험거래",
+   "filer": "삼성전자",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001851",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001842",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]특수관계인과의보험거래",
+   "filer": "삼성전자",
+   "remark": "공",
+   "category": "정정공시",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001842",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001820",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]특수관계인과의보험거래",
+   "filer": "삼성전자",
+   "remark": "공",
+   "category": "정정공시",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001820",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001789",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "박승현",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001789",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001771",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "동일인등출자계열회사와의상품ㆍ용역거래",
+   "filer": "삼성전자",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001771",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001743",
+   "date": "2026-11-27",
+   "ticker": "005380",
+   "name": "현대차",
+   "group": "자동차",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "특수관계인으로부터기타유가증권매수",
+   "filer": "현대자동차",
+   "remark": "공",
+   "category": "기타",
+   "level": 0,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001743",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001600",
+   "date": "2026-11-27",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "오성권",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001600",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001578",
+   "date": "2026-11-27",
+   "ticker": "035420",
+   "name": "NAVER",
+   "group": "플랫폼",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "이종주",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001578",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001284",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "하찬효",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001284",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127001233",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "이응규",
+   "remark": "",
+   "category": "지분변동",
+   "level": 1,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001233",
+   "is_new": true
+  },
+  {
+   "rcept_no": "20261127000959",
+   "date": "2026-11-27",
+   "ticker": "005930",
+   "name": "삼성전자",
+   "group": "반도체",
+   "kind": "보유",
+   "market": "코스피",
+   "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+   "filer": "김현진",
+   "remark": "",
+   "category": "지분변동",
+   "level": 2,
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000959",
+   "is_new": true
+  },
+  {
    "rcept_no": "20261127000563",
    "date": "2026-11-27",
    "ticker": "005380",
@@ -14,7 +318,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000563",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261127000388",
@@ -30,7 +334,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000388",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261127000377",
@@ -46,7 +350,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000377",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261127000257",
@@ -62,7 +366,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000257",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261127000191",
@@ -78,7 +382,7 @@
    "category": "기타",
    "level": 0,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000191",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261127000031",
@@ -90,11 +394,11 @@
    "market": "코스피",
    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
    "filer": "이응규",
-   "remark": "",
+   "remark": "정",
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000031",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261127000021",
@@ -110,7 +414,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000021",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261127000008",
@@ -126,7 +430,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000008",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261127000007",
@@ -142,7 +446,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000007",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261127000004",
@@ -158,7 +462,7 @@
    "category": "지분변동",
    "level": 2,
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000004",
-   "is_new": true
+   "is_new": false
   },
   {
    "rcept_no": "20261126000250",
